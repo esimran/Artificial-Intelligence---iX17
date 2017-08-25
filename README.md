@@ -3,4 +3,4 @@ AI Projects from iX 2017
 
 Some models may not run as is, because data files larger than 50MB cannot be stored in GitHub (100MB with git lfs, but I've maxed out my free storage). 
 
-Some models are also in progress.
+Some models are also in progress or were run halfway through the NoteBook and may have errors displayed. This is still a work in progress.
